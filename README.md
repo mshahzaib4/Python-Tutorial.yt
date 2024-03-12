@@ -3,7 +3,7 @@
 Welcome to the Python Programming Fundamentals course! This course is designed to take you from a beginner to a proficient Python programmer. Whether you're new to programming or looking to expand your skills, this course will cover everything you need to know about Python.
 
 ## Table of Contents
-- [Introduction to Python](#[introduction-to-python](https://github.com/mshahzaib4/Python-Tutorial.yt/tree/main/01%20Introduction%20to%20Python))
+- [Introduction to Python](https://github.com/mshahzaib4/Python-Tutorial.yt/tree/main/01%20Introduction%20to%20Python)
 - [Python Basics](#python-basics)
 - [Control Structures](#control-structures)
 - [Functions](#functions)
