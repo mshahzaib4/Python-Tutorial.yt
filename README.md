@@ -73,21 +73,10 @@ Welcome to the Python Programming Fundamentals course! This course is designed t
   - Unordered Collection of Unique Elements
   - Set Operations
 
-## File Handling
-- Opening and Closing Files
-- Reading from and Writing to Files
-- Working with Text and Binary Files
-- Using "with" Statement
-
 ## Exception Handling
 - Handling Exceptions with try-except blocks
 - Handling Multiple Exceptions
 - finally block
-
-## Modules and Packages
-- Creating and Importing Modules
-- Exploring Standard Library Modules
-- Installing External Packages with pip
 
 ## Object-Oriented Programming (OOP) in Python
 - Classes and Objects
@@ -96,6 +85,11 @@ Welcome to the Python Programming Fundamentals course! This course is designed t
 - Method Overriding
 - Encapsulation
 - Polymorphism
+  
+## Modules and Packages
+- Creating and Importing Modules
+- Exploring Standard Library Modules
+- Installing External Packages with pip
 
 ## Working with Libraries
 - Using popular libraries such as:
@@ -104,11 +98,6 @@ Welcome to the Python Programming Fundamentals course! This course is designed t
   - Matplotlib (Data Visualization)
   - requests (HTTP Library)
   - BeautifulSoup (Web Scraping)
-
-## Introduction to GUI Programming (Optional)
-- Using tkinter for Basic GUI Applications
-- Creating GUI Elements (Buttons, Labels, Entry, etc.)
-- Handling Events in GUI Applications
 
 ## Final Project
 - Integrating Concepts Learned Throughout the Course
