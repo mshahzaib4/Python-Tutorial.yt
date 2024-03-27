@@ -76,7 +76,6 @@ Welcome to the Python Programming Fundamentals course! This course is designed t
 ## Exception Handling
 - Handling Exceptions with try-except blocks
 - Handling Multiple Exceptions
-- finally block
 
 ## Object-Oriented Programming (OOP) in Python
 - Classes and Objects
