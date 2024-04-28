@@ -1,3 +1,5 @@
+![Screenshot 2024-04-28 113327](https://github.com/mshahzaib4/Python-Tutorial.yt/assets/158167657/02d341cc-f9f4-4405-ab61-394c806c418b)
+
 # Python Programming Fundamentals
 
 Welcome to the Python Programming Fundamentals course! This course is designed to take you from a beginner to a proficient Python programmer. Whether you're new to programming or looking to expand your skills, this course will cover everything you need to know about Python.
@@ -10,8 +12,8 @@ Welcome to the Python Programming Fundamentals course! This course is designed t
 - [Data Structures](#data-structures)
 - [File Handling](#file-handling)
 - [Exception Handling](#exception-handling)
-- [Modules and Packages](#modules-and-packages)
 - [Object-Oriented Programming (OOP) in Python](#object-oriented-programming-oop-in-python)
+- [Modules and Packages](#modules-and-packages)
 - [Working with Libraries](#working-with-libraries)
 - [Introduction to GUI Programming (Optional)](#introduction-to-gui-programming-optional)
 - [Final Project](#final-project)
