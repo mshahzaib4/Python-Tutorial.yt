@@ -97,7 +97,6 @@ Welcome to the Python Programming Fundamentals course! This course is designed t
   - NumPy (Numerical Python)
   - pandas (Data Analysis Library)
   - Matplotlib (Data Visualization)
-  - requests (HTTP Library)
   - BeautifulSoup (Web Scraping)
 
 ## Final Project
