@@ -99,15 +99,6 @@ Welcome to the Python Programming Fundamentals course! This course is designed t
   - Matplotlib (Data Visualization)
   - BeautifulSoup (Web Scraping)
 
-## Final Project
-- Integrating Concepts Learned Throughout the Course
-- Building a Practical Application or Game
-
-## Additional Resources
-- Online Python Documentation
-- Python Community and Forums
-- Recommended Books and Tutorials
-
 ---
 
 This course outline provides a structured path to mastering Python programming, from the basics to advanced topics. Each section includes explanations, examples, and opportunities for hands-on learning. Get ready to dive into the world of Python!
