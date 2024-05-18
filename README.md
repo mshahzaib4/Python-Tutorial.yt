@@ -16,8 +16,6 @@ Welcome to the Python Programming Fundamentals course! This course is designed t
 - [Modules and Packages](#modules-and-packages)
 - [Working with Libraries](#working-with-libraries)
 - [Introduction to GUI Programming (Optional)](#introduction-to-gui-programming-optional)
-- [Final Project](#final-project)
-- [Additional Resources](#additional-resources)
 
 ---
 
